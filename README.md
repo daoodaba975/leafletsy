@@ -1,4 +1,4 @@
 # Leafletsy
 
-Working with Leafklet JS an open-source JavaScript library
+Working with Leaflet JS an open-source JavaScript library
 for mobile-friendly interactive maps.
